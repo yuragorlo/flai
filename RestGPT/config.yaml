@@ -1,0 +1,10 @@
+openai_api_key: ""
+
+flaidata_token: ""
+
+tmdb_access_token: ""
+tmdb_api_key: ""
+
+spotipy_client_id:
+spotipy_client_secret: 
+spotipy_redirect_uri: 
