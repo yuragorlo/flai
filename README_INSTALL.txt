@@ -1,3 +1,4 @@
+0. python -m venv env
 1. source env/bin/activate
 2. pip3 install -r requirements.txt
 3. cd RestGPT
